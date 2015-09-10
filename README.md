@@ -1,6 +1,10 @@
-# photoalbun
-Photoalbum test job <br/>
+# photoalbum
 Тестовая работа<br/>
-Для настройки править файл:<br/>
-index.php,controller.php<br/>
-В /lib/ connector.php,photos.php<br/>
+Для настройки поправить файлы:<br/>
+index.php,controller.php (корневая директория при создании класса)<br/>
+В /lib/ connector.php,photos.php(подключение к бд, дирекории)<br/>
+Чтобы работало, необходим ModeRewrite с единой точкой входа index.php<br/>
+Чтобы сгенрировать юзверя, перейдите по страничке http://ваш_сервер/test/test<br/>
+Тестовый логин:test@test.ru и пароль:111111<br/>
+
+
