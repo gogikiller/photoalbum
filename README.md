@@ -1,6 +1,6 @@
 # photoalbun
 Photoalbum test job <br/>
-Тестовая работа
-Для настройки править файл:
-index.php,controller.php
-В /lib/ connector.php,photos.php
+Тестовая работа<br/>
+Для настройки править файл:<br/>
+index.php,controller.php<br/>
+В /lib/ connector.php,photos.php<br/>
